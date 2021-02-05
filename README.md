@@ -2,7 +2,7 @@
 
 Scikit-learn implementation of stackimpute, a stacking approach for the imputation of multiple platforms methylation data.  STACKIMPUTE has no requirement on the sequencing type of datasets and has already been proved that it has a good performance on  Infinium Methylation 450K,  Infinium MethylationEPIC (850K), Reduced representation bisulfite sequencing  (RRBS), and Whole-Genome Bisulfite Sequencing (WGBS) data under different cases.  It is able to share information between different samples. However, if you only have one sample, you could also use STACKIMPUTE to do the imputation. You would have a desirable result too.  For a detailed description of the algorithm, please see our manuscript stackimpute: a universal stacking machine learning model for multi-platform methylation data imputation (2021).
 
-![avatar](D:\server\copy\imputation\stackimpute\stackimpute\images\imputation_workflow.jpg)
+![avatar](https://raw.githubusercontent.com/sixone11/stackimpute/master/images/imputation_workflow.jpg)
 
 ## Setup
 
